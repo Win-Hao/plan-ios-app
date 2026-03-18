@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan iOS App"
+  short_description: "Choose iOS stack, art direction, color, and motion"
+  default_prompt: "Use $plan-ios-app to choose the stack, UI art direction, color palette, typography, and animation approach for my iOS app idea."
